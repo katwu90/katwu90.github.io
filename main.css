@@ -1,7 +1,11 @@
 body {
-  background: #FF;
+  background: rgb(185, 242, 186);
 }
 
 h1 {
   color: #000;
+}
+
+.navbar-expand-lg {
+  background-color: transparent;
 }
