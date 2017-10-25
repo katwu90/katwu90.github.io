@@ -154,3 +154,10 @@ p.copyright {
 .project-spacer {
   margin-top: 30px;
 }
+
+.resume-link {
+  text-align: center;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+}
